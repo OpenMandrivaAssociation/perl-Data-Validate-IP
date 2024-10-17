@@ -9,7 +9,7 @@ Summary:	Perl module for validating IP address data
 
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://metacpan.org/pod/Data::Validate::IP
+Url:		https://metacpan.org/pod/Data::Validate::IP
 Source0:	https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
