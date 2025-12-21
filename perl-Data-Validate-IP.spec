@@ -12,6 +12,7 @@ Group:		Development/Perl
 Url:		https://metacpan.org/pod/Data::Validate::IP
 Source0:	https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/%{upstream_name}-%{upstream_version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(NetAddr::IP)
 # For tests
